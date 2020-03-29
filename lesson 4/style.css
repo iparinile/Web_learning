@@ -1,0 +1,22 @@
+body {
+    width:70%;
+    margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat", "Roboto", sans-serif;
+    margin-top: 2em;
+}
+
+h1 {
+    size: 32px;
+}
+
+table, td, th{
+    border: 1px solid black;
+}
+
+figure {
+    font-style: italic;
+    float: right;
+}
